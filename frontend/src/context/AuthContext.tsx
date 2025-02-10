@@ -3,7 +3,7 @@ import axios from "axios";
 import toast from "react-hot-toast";
 
 export const api = axios.create({
-  baseURL: 'https://nine0-s-blog-api.onrender.com/api/v1',
+  baseURL: 'https://nine0-s-blog-codedex.onrender.com/api/v1',
   headers: {
     'Content-Type': 'application/json',
   },

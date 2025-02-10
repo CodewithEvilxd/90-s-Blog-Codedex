@@ -76,7 +76,7 @@ export function Footer() {
           [Portfolio]
         </a>
         <a 
-          href="https://www.linkedin.com/in/codewithevil/" 
+          href="https://www.linkedin.com/in/codewithevilxd" 
           target='_blank'
           className={`
             ${colors[(colorIndex + 1) % colors.length]}
