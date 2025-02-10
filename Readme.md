@@ -4,11 +4,10 @@ This project combines vintage web design with modern web features for a fun and 
 
 ![image](https://github.com/user-attachments/assets/fdbe299d-fd7a-4b7e-9ff0-98a40ab49011)
 
-Youtube Video Link - https://youtu.be/L50nWpqZtu4
 
-Live Link - https://90-s-blog-codedex-hackathon.vercel.app/
+Live Link - https://90-s-blog-codedex-xd.vercel.app/
 
-Github repo - https://github.com/anuj846k/90-s-Blog-Codedex-Hackathon
+Github repo - https://github.com/codewithevilxd/90-s-Blog-Codedex
 
 ![image](https://github.com/user-attachments/assets/ec9b8e9b-3a07-481f-ae80-c82c75bcc115)
 
