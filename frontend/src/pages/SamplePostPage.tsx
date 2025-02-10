@@ -11,7 +11,7 @@ const posts = [
   {
     "id": 3,
     "title": "How to fix bugs and improve UI",
-    "date": "10th December 2024",
+    "date": "10th January 2025",
     "content": `
 Introduction
 In this post, I detail how I tackled some persistent bugs in my application. I walk you through the debugging process, the tools I used, and how I enhanced the user interface to make the app more intuitive. If you're struggling with UI glitches and bugs, this post might help you improve your process.
@@ -77,7 +77,7 @@ Integrating third-party APIs can enhance your app's functionality significantly.
   {
     "id": 5,
     "title": "The Power of Version Control with Git",
-    "date": "25th September 2024",
+    "date": "25th December 2024",
     "content": `
    The Power of Version Control with Git
   
